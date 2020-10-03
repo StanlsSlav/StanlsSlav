@@ -9,6 +9,10 @@ I'm extremely interested in programming and gameDev, specifically, yet another s
 
 - [x] Start learning
 - [x] Continue learning
+- [x] Learn C#
+- [ ] Learn C++
+- [ ] Learn Python
+- [ ] Learn Rust
 - [ ] Enter Ubisoft Team
 
 StanlsNotSlav
