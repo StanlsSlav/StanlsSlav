@@ -1,6 +1,6 @@
 ![Profile GIF](/hello.gif)
 
-I'm a student extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
+I'm extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
 
 | \\_____\/ | Hobbies | \\_____\/ |
 |----------------------------|-----------------------|--------------------------------|
