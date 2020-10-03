@@ -9,9 +9,10 @@ I'm extremely interested in programming and gameDev, specifically, yet another s
 
 - [x] Start learning
 - [x] Learn C#
-- [ ] Git good at C#
+- [ ] GitGood at C#
 - [ ] Learn C++
 - [ ] Learn Python
+- [ ] GitGood at Python
 - [ ] Learn Rust
 - [ ] Enter Ubisoft Team
 
