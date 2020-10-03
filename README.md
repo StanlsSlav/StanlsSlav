@@ -1,7 +1,8 @@
 ![Profile GIF](/hello.gif)
 
 I'm extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
-
+ 
+  
 - Wish List
 - [x] Start learning
 - [x] Learn C#
@@ -12,7 +13,8 @@ I'm extremely interested in programming and gameDev, specifically, yet another s
 - [ ] Learn Rust
 - [ ] Enter Ubisoft Team
 
-| \\_____\/ | Hobbies | \\_____\/ |
+| \/_______________\\ | Hobbies | \/_______________\\ |
 |----------------------------|-----------------------|--------------------------------|
-| PenTesting | Eating | Gaming |
-|Probably doing it right now | 3 times a day or more | Too many hours spent consuming |
+|         PenTesting |      Eating |     Gaming |
+|Probably doing it right now | 3 big meals a day | It's time to create |
+|      \\_______________\/ |  |  \\_______________\/ |
