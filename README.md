@@ -2,11 +2,7 @@
 
 I'm extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
 
-| \\_____\/ | Hobbies | \\_____\/ |
-|----------------------------|-----------------------|--------------------------------|
-| PenTesting | Eating | Gaming |
-|Probably doing it right now | 3 times a day or more | Too many hours spent consuming |
-
+- Wish List
 - [x] Start learning
 - [x] Learn C#
 - [ ] GitGood at C#
@@ -15,5 +11,10 @@ I'm extremely interested in programming and gameDev, specifically, yet another s
 - [ ] GitGood at Python
 - [ ] Learn Rust
 - [ ] Enter Ubisoft Team
+
+| \\_____\/ | Hobbies | \\_____\/ |
+|----------------------------|-----------------------|--------------------------------|
+| PenTesting | Eating | Gaming |
+|Probably doing it right now | 3 times a day or more | Too many hours spent consuming |
 
 StanlsNotSlav
