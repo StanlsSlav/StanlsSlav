@@ -1,6 +1,6 @@
 ![Profile GIF](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif)
 
-I'm a student extremely interested in programming and gameDev specifically. Yet another student with code 😔
+I'm a student extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
 
 | \\_____\/ | Hobbies | \\_____\/ |
 |----------------------------|-----------------------|--------------------------------|
@@ -8,6 +8,7 @@ I'm a student extremely interested in programming and gameDev specifically. Yet 
 |Probably doing it right now | 3 times a day or more | Too many hours spent consuming |
 
 - [x] Start learning
-- [ ] Continue learning
+- [x] Continue learning
+- [ ] Enter Ubisoft Team
 
 StanlsNotSlav
