@@ -1,4 +1,4 @@
-![Profile GIF](https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif)
+![Profile GIF](/hello.gif)
 
 I'm a student extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
 
