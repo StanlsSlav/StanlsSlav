@@ -3,7 +3,7 @@
 I'm extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
  
   
-- Wish List
+- Goals to Achieve
 - [x] Start learning
 - [x] Learn C#
 - [ ] GitGood at C#
