@@ -1,15 +1,9 @@
 ![Profile GIF](/hello.gif)
 
-I'm extremely interested in programming and gameDev, specifically, yet another student with spaghetty code 😔
+Very interested in programming and gameDev, specifically, self-taught but code still shaggy 
  
   
 - Goals to Achieve
 - [x] Start learning
-- [x] Learn C#
-- [ ] GitGood at C#
-- [ ] Learn Python
-- [ ] Get good at Python
-- [ ] Learn Rust
-- [ ] Learn C++
-- [ ] Enter Ubisoft Team
-- [ ] Learn even more languages
+- [x] Continue learning
+- [x] Enjoy
