@@ -1,6 +1,6 @@
 ![Profile GIF](/hello.gif)
 
-I'm a self-taught learner and a GameDev aspirant 👾
+## I'm a self-taught learner and a GameDev aspirant 👾
 
 Here's some metrics:
 
