@@ -4,4 +4,4 @@
 
 Here's some metrics:
 
-![Metrics](https://metrics.lecoq.io/StanlsSlav?template=classic&languages=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FParis&config.animated=true)
+![Metrics](https://metrics.lecoq.io/StanlsSlav?template=classic&languages=1&config.timezone=Europe%2FParis&config.animated=true)
