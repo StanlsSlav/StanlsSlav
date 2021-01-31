@@ -1,5 +1,5 @@
 <img src="hello.gif" alt="Hello GIF">
-<h1>I'm a self-taught learner and a GameDev aspirant 👾</h1>
+<h1>Self-taught learner and a GameDev aspirant 👾</h1>
 
 <table>
   <caption>What is mostly used</caption>
