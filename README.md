@@ -10,7 +10,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="25"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="25"></td>
   </tr>
-</table>
+</table><br>
 
 <table>
   <caption>IDEs:</caption>
@@ -20,7 +20,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" alt="PyCharm" width="25"></td>
     <td><img src="https://macoscrack.com/nesafip/uploads/2020/08/JetBrains-Rider.png" alt="Rider" width="25"></td>
   </tr>
-</table>
+</table><br>
 
 <table>
   <caption>Operating Systems:</caption>
@@ -29,7 +29,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png" alt="Windows10" width="25"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1024px-Icons8_flat_linux.svg.png" alt="Linux" width="25"></td>
   </tr>
-</table>
+</table><br>
 
 Here's some metrics:<br>
 <img src="https://metrics.lecoq.io/StanlsSlav?template=classic&languages=1&config.timezone=Europe%2FParis&config.animated=true" alt="Metrics">
