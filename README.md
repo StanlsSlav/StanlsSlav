@@ -31,5 +31,5 @@
   </tr>
 </table><br>
 
-Here's some metrics:<br>
+Here's some metrics<br>
 <img src="https://metrics.lecoq.io/StanlsSlav?template=classic&languages=1&config.timezone=Europe%2FParis&config.animated=true" alt="Metrics">
