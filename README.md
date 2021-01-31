@@ -5,7 +5,7 @@
   <caption>What is mostly used</caption>
   
   <tr>
-    <th>Known Languages</th>
+    <th>Languages</th>
     <th>IDEs</th>
     <th>Operating Systems</th>
   </tr>
