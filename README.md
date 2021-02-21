@@ -2,7 +2,7 @@
 <h1>Self-taught learner and a GameDev aspirant 👾</h1>
 
 <table>
-  <caption>What is mostly used</caption>
+  <caption>What's mostly used</caption>
   
   <tr>
     <th>Languages</th>
